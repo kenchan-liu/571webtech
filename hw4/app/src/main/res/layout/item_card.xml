@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Set the width to be half of the parent width -->
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="3dp"
+    android:elevation="8dp"
+    android:layout_gravity="center">
+
+<androidx.constraintlayout.widget.ConstraintLayout
+    android:id="@+id/linearLayout"
+    android:layout_width="200dp"
+    android:layout_height="340dp">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="0dp"
+        android:layout_height="203dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <TextView
+        android:id="@+id/itemtitle"
+        android:layout_width="120dp"
+        android:layout_height="52dp"
+        android:ellipsize="end"
+        android:fontFamily="sans-serif"
+        android:maxLines="2"
+        android:text="titletitletitletitletitletitletitletitletitletitletitletitle"
+        android:textSize="21sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView" />
+
+    <TextView
+        android:id="@+id/zip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="-10dp"
+        android:layout_marginTop="4dp"
+        android:text="TextView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.112"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/itemtitle" />
+
+    <TextView
+        android:id="@+id/shipping"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="-10dp"
+        android:layout_marginTop="4dp"
+        android:text="TextView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.112"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/zip" />
+
+    <TextView
+        android:id="@+id/condition"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="-10dp"
+        android:layout_marginTop="9dp"
+        android:text="TextView"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.12"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/shipping"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/materialButton"
+        android:layout_width="54dp"
+        android:layout_height="36dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginEnd="34dp"
+        android:visibility="visible"
+        app:icon="@drawable/baseline_add_shopping_cart_24"
+        app:iconSize="24dp"
+        app:iconTint="#0B0A0A"
+        app:layout_constraintBottom_toTopOf="@+id/price"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/itemtitle"
+        app:layout_constraintVertical_bias="0.555"
+        tools:ignore="MissingConstraints" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/materialButton2"
+        android:layout_width="51dp"
+        android:layout_height="35dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginEnd="34dp"
+        android:visibility="visible"
+        app:icon="@drawable/baseline_remove_shopping_cart_24"
+        app:iconSize="24dp"
+        app:iconTint="#0B0A0A"
+        app:layout_constraintBottom_toTopOf="@+id/price"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/itemtitle"
+        app:layout_constraintVertical_bias="0.421"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="34dp"
+        android:layout_marginBottom="8dp"
+        android:text="TextView"
+        android:textColor="#673AB7"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+    ...  <!-- 其他属性 -->
+    />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.cardview.widget.CardView>

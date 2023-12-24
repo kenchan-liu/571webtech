@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categories" >
+        <item>All </item>
+        <item>Art</item>
+        <item>Baby</item>
+        <item>Books</item>
+        <item>Clothing, Shoes &amp; Accessories</item>
+        <item>Computers</item>
+        <item>Health &amp; Beauty</item>
+        <item>Music</item>
+        <item>Video Games &amp; Consoles</item>
+    </string-array>
+    <string-array name="sort">
+        <item>Ascending </item>
+        <item>Descending</item>
+    </string-array>
+
+</resources>

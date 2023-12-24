@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ItemDetailActivity">
+
+    <TextView
+        android:id="@+id/resultitle"
+        android:layout_width="315dp"
+        android:layout_height="69dp"
+        android:layout_marginTop="-13dp"
+        android:background="#643BC3"
+        android:ellipsize="end"
+        android:gravity="start"
+        android:maxLines="1"
+        android:paddingTop="20dp"
+        android:shadowColor="#000000"
+        android:text="       Search Results"
+        android:textColor="#F3F2F2"
+        android:textSize="26sp"
+        app:layout_constraintEnd_toStartOf="@+id/facebook"
+        app:layout_constraintStart_toEndOf="@+id/button"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="44dp"
+        android:layout_height="58dp"
+        android:layout_marginTop="-8dp"
+        android:background="#643BC3"
+        android:onClick="onBackButtonClick"
+        android:text="  ←  "
+        android:textColor="#F6F1F1"
+        android:textSize="28sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/facebook"
+        android:layout_width="72dp"
+        android:layout_height="58dp"
+        android:layout_marginEnd="-15dp"
+        android:background="#643BC3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/icons8_facebook_f" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="800dp"
+        android:layout_marginTop="56dp"
+        android:orientation="vertical"
+        app:layout_constraintTop_toTopOf="@id/button"
+        tools:layout_editor_absoluteX="-3dp">
+
+        <com.google.android.material.tabs.TabLayout
+            android:id="@+id/tabs"
+            android:layout_width="match_parent"
+            android:layout_height="64dp"
+            android:background="#643BC3"
+            app:tabIndicatorColor="#9270CD"
+            app:tabTextColor="@color/tab_text_selector">
+
+            <com.google.android.material.tabs.TabItem
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#D82020"
+                android:icon="@drawable/baseline_info_24"
+                android:text="PRODUCT"
+                android:textColor="#E1D0D0" />
+
+            <com.google.android.material.tabs.TabItem
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:icon="@drawable/baseline_local_shipping_24"
+                android:text="SHIPPING"
+                android:textColor="#F3F2F2" />
+
+            <com.google.android.material.tabs.TabItem
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:icon="@drawable/icons8_google"
+                android:text="PHOTOS"
+                android:textColor="#F3F2F2" />
+
+            <com.google.android.material.tabs.TabItem
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#D82020"
+                android:icon="@drawable/baseline_density_large_24"
+                android:text="SIMILAR"
+                android:textColor="#E1D0D0" />
+
+        </com.google.android.material.tabs.TabLayout>
+
+        <androidx.fragment.app.FragmentContainerView
+            android:id="@+id/fragment_container"
+            android:name="com.example.hw4.ProductFragment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="81dp"
+        android:layout_height="wrap_content"
+        android:elevation="10dp"
+        android:src="@drawable/new_add_shopping_cart_24"
+        android:visibility="visible"
+        app:layout_constraintBottom_toBottomOf="@+id/imageView4"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="81dp"
+        android:layout_height="wrap_content"
+        android:elevation="10dp"
+        android:src="@drawable/new_remove_shopping_cart_24"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

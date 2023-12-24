@@ -1,0 +1,3446 @@
+{
+  "findItemsAdvancedResponse": [
+      {
+          "ack": [
+              "Success"
+          ],
+          "version": [
+              "1.13.0"
+          ],
+          "timestamp": [
+              "2023-12-04T02:54:04.767Z"
+          ],
+          "searchResult": [
+              {
+                  "@count": "21",
+                  "item": [
+                      {
+                          "itemId": [
+                              "325837868460"
+                          ],
+                          "title": [
+                              "Apple iPhone 15 Pro Max 256GB UNLOCKED Natural Titanium BRAND NEW ✅SHIPS TODAY✅"
+                          ],
+                          "globalId": [
+                              "EBAY-US"
+                          ],
+                          "primaryCategory": [
+                              {
+                                  "categoryId": [
+                                      "9355"
+                                  ],
+                                  "categoryName": [
+                                      "Cell Phones & Smartphones"
+                                  ]
+                              }
+                          ],
+                          "galleryURL": [
+                              "https://i.ebayimg.com/thumbs/images/g/N-oAAOSwtv5lHu8o/s-l140.jpg"
+                          ],
+                          "viewItemURL": [
+                              "https://www.ebay.com/itm/Apple-iPhone-15-Pro-Max-256GB-UNLOCKED-Natural-Titanium-BRAND-NEW-SHIPS-TODAY-/325837868460"
+                          ],
+                          "autoPay": [
+                              "true"
+                          ],
+                          "postalCode": [
+                              "221**"
+                          ],
+                          "location": [
+                              "Springfield,VA,USA"
+                          ],
+                          "country": [
+                              "US"
+                          ],
+                          "storeInfo": [
+                              {
+                                  "storeName": [
+                                      "Springfield Deals"
+                                  ],
+                                  "storeURL": [
+                                      "http://stores.ebay.com/Springfield-Deals"
+                                  ]
+                              }
+                          ],
+                          "sellerInfo": [
+                              {
+                                  "sellerUserName": [
+                                      "springfielddeals"
+                                  ],
+                                  "feedbackScore": [
+                                      "1022"
+                                  ],
+                                  "positiveFeedbackPercent": [
+                                      "100.0"
+                                  ],
+                                  "feedbackRatingStar": [
+                                      "Red"
+                                  ],
+                                  "topRatedSeller": [
+                                      "true"
+                                  ]
+                              }
+                          ],
+                          "shippingInfo": [
+                              {
+                                  "shippingServiceCost": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "0.0"
+                                      }
+                                  ],
+                                  "shippingType": [
+                                      "Free"
+                                  ],
+                                  "shipToLocations": [
+                                      "Worldwide"
+                                  ],
+                                  "expeditedShipping": [
+                                      "false"
+                                  ],
+                                  "oneDayShippingAvailable": [
+                                      "true"
+                                  ],
+                                  "handlingTime": [
+                                      "0"
+                                  ]
+                              }
+                          ],
+                          "sellingStatus": [
+                              {
+                                  "currentPrice": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "1499.0"
+                                      }
+                                  ],
+                                  "convertedCurrentPrice": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "1499.0"
+                                      }
+                                  ],
+                                  "sellingState": [
+                                      "Active"
+                                  ],
+                                  "timeLeft": [
+                                      "P1DT15H23M19S"
+                                  ]
+                              }
+                          ],
+                          "listingInfo": [
+                              {
+                                  "bestOfferEnabled": [
+                                      "false"
+                                  ],
+                                  "buyItNowAvailable": [
+                                      "false"
+                                  ],
+                                  "startTime": [
+                                      "2023-10-05T17:17:23.000Z"
+                                  ],
+                                  "endTime": [
+                                      "2023-12-05T18:17:23.000Z"
+                                  ],
+                                  "listingType": [
+                                      "FixedPrice"
+                                  ],
+                                  "gift": [
+                                      "false"
+                                  ],
+                                  "watchCount": [
+                                      "543"
+                                  ]
+                              }
+                          ],
+                          "returnsAccepted": [
+                              "false"
+                          ],
+                          "condition": [
+                              {
+                                  "conditionId": [
+                                      "1000"
+                                  ],
+                                  "conditionDisplayName": [
+                                      "New"
+                                  ]
+                              }
+                          ],
+                          "isMultiVariationListing": [
+                              "false"
+                          ],
+                          "topRatedListing": [
+                              "false"
+                          ]
+                      },
+                      {
+                          "itemId": [
+                              "186035177804"
+                          ],
+                          "title": [
+                              "Apple iPhone X | XR | XS | XS Max - 64GB 128GB 256GB - Verizon GSM Unlocked AT&T"
+                          ],
+                          "globalId": [
+                              "EBAY-US"
+                          ],
+                          "primaryCategory": [
+                              {
+                                  "categoryId": [
+                                      "9355"
+                                  ],
+                                  "categoryName": [
+                                      "Cell Phones & Smartphones"
+                                  ]
+                              }
+                          ],
+                          "galleryURL": [
+                              "https://i.ebayimg.com/thumbs/images/g/PywAAOSwSXlk2nxv/s-l140.jpg"
+                          ],
+                          "viewItemURL": [
+                              "https://www.ebay.com/itm/Apple-iPhone-X-XR-XS-XS-Max-64GB-128GB-256GB-Verizon-GSM-Unlocked-AT-T-/186035177804?var=694053977815"
+                          ],
+                          "autoPay": [
+                              "true"
+                          ],
+                          "postalCode": [
+                              "293**"
+                          ],
+                          "location": [
+                              "Spartanburg,SC,USA"
+                          ],
+                          "country": [
+                              "US"
+                          ],
+                          "storeInfo": [
+                              {
+                                  "storeName": [
+                                      "Ideal Mobile"
+                                  ],
+                                  "storeURL": [
+                                      "http://stores.ebay.com/Ideal-Mobile"
+                                  ]
+                              }
+                          ],
+                          "sellerInfo": [
+                              {
+                                  "sellerUserName": [
+                                      "ideal-mobile"
+                                  ],
+                                  "feedbackScore": [
+                                      "4218"
+                                  ],
+                                  "positiveFeedbackPercent": [
+                                      "99.3"
+                                  ],
+                                  "feedbackRatingStar": [
+                                      "Red"
+                                  ],
+                                  "topRatedSeller": [
+                                      "true"
+                                  ]
+                              }
+                          ],
+                          "shippingInfo": [
+                              {
+                                  "shippingServiceCost": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "0.0"
+                                      }
+                                  ],
+                                  "shippingType": [
+                                      "Free"
+                                  ],
+                                  "shipToLocations": [
+                                      "Worldwide"
+                                  ],
+                                  "expeditedShipping": [
+                                      "false"
+                                  ],
+                                  "oneDayShippingAvailable": [
+                                      "false"
+                                  ],
+                                  "handlingTime": [
+                                      "1"
+                                  ]
+                              }
+                          ],
+                          "sellingStatus": [
+                              {
+                                  "currentPrice": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "194.95"
+                                      }
+                                  ],
+                                  "convertedCurrentPrice": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "194.95"
+                                      }
+                                  ],
+                                  "sellingState": [
+                                      "Active"
+                                  ],
+                                  "timeLeft": [
+                                      "P10DT17H15M5S"
+                                  ]
+                              }
+                          ],
+                          "listingInfo": [
+                              {
+                                  "bestOfferEnabled": [
+                                      "false"
+                                  ],
+                                  "buyItNowAvailable": [
+                                      "false"
+                                  ],
+                                  "startTime": [
+                                      "2023-08-14T19:09:09.000Z"
+                                  ],
+                                  "endTime": [
+                                      "2023-12-14T20:09:09.000Z"
+                                  ],
+                                  "listingType": [
+                                      "FixedPrice"
+                                  ],
+                                  "gift": [
+                                      "false"
+                                  ],
+                                  "watchCount": [
+                                      "23"
+                                  ]
+                              }
+                          ],
+                          "returnsAccepted": [
+                              "true"
+                          ],
+                          "condition": [
+                              {
+                                  "conditionId": [
+                                      "1500"
+                                  ],
+                                  "conditionDisplayName": [
+                                      "Open box"
+                                  ]
+                              }
+                          ],
+                          "isMultiVariationListing": [
+                              "true"
+                          ],
+                          "topRatedListing": [
+                              "true"
+                          ]
+                      },
+                      {
+                          "itemId": [
+                              "155780190004"
+                          ],
+                          "title": [
+                              "Apple - iPhone 15 - 128GB - Unlocked - Factory Warranty - All Colors"
+                          ],
+                          "globalId": [
+                              "EBAY-US"
+                          ],
+                          "subtitle": [
+                              "Free Fast Shipping. Factory Sealed. Factory Warranty."
+                          ],
+                          "primaryCategory": [
+                              {
+                                  "categoryId": [
+                                      "9355"
+                                  ],
+                                  "categoryName": [
+                                      "Cell Phones & Smartphones"
+                                  ]
+                              }
+                          ],
+                          "galleryURL": [
+                              "https://i.ebayimg.com/thumbs/images/g/lnwAAOSw3P9lCxhh/s-l140.jpg"
+                          ],
+                          "viewItemURL": [
+                              "https://www.ebay.com/itm/Apple-iPhone-15-128GB-Unlocked-Factory-Warranty-All-Colors-/155780190004?var=456169357507"
+                          ],
+                          "autoPay": [
+                              "true"
+                          ],
+                          "postalCode": [
+                              "038**"
+                          ],
+                          "location": [
+                              "Plaistow,NH,USA"
+                          ],
+                          "country": [
+                              "US"
+                          ],
+                          "storeInfo": [
+                              {
+                                  "storeName": [
+                                      "ALLDAYZIP"
+                                  ],
+                                  "storeURL": [
+                                      "http://stores.ebay.com/ALLDAYZIP"
+                                  ]
+                              }
+                          ],
+                          "sellerInfo": [
+                              {
+                                  "sellerUserName": [
+                                      "alldayzip"
+                                  ],
+                                  "feedbackScore": [
+                                      "37273"
+                                  ],
+                                  "positiveFeedbackPercent": [
+                                      "99.4"
+                                  ],
+                                  "feedbackRatingStar": [
+                                      "TurquoiseShooting"
+                                  ],
+                                  "topRatedSeller": [
+                                      "true"
+                                  ]
+                              }
+                          ],
+                          "shippingInfo": [
+                              {
+                                  "shippingServiceCost": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "0.0"
+                                      }
+                                  ],
+                                  "shippingType": [
+                                      "Free"
+                                  ],
+                                  "shipToLocations": [
+                                      "Worldwide"
+                                  ],
+                                  "expeditedShipping": [
+                                      "false"
+                                  ],
+                                  "oneDayShippingAvailable": [
+                                      "false"
+                                  ],
+                                  "handlingTime": [
+                                      "1"
+                                  ]
+                              }
+                          ],
+                          "sellingStatus": [
+                              {
+                                  "currentPrice": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "879.0"
+                                      }
+                                  ],
+                                  "convertedCurrentPrice": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "879.0"
+                                      }
+                                  ],
+                                  "sellingState": [
+                                      "Active"
+                                  ],
+                                  "timeLeft": [
+                                      "P14DT13H14M25S"
+                                  ]
+                              }
+                          ],
+                          "listingInfo": [
+                              {
+                                  "bestOfferEnabled": [
+                                      "false"
+                                  ],
+                                  "buyItNowAvailable": [
+                                      "false"
+                                  ],
+                                  "startTime": [
+                                      "2023-09-18T15:08:29.000Z"
+                                  ],
+                                  "endTime": [
+                                      "2023-12-18T16:08:29.000Z"
+                                  ],
+                                  "listingType": [
+                                      "FixedPrice"
+                                  ],
+                                  "gift": [
+                                      "false"
+                                  ],
+                                  "watchCount": [
+                                      "118"
+                                  ]
+                              }
+                          ],
+                          "returnsAccepted": [
+                              "true"
+                          ],
+                          "condition": [
+                              {
+                                  "conditionId": [
+                                      "1000"
+                                  ],
+                                  "conditionDisplayName": [
+                                      "New"
+                                  ]
+                              }
+                          ],
+                          "isMultiVariationListing": [
+                              "true"
+                          ],
+                          "topRatedListing": [
+                              "true"
+                          ]
+                      },
+                      {
+                          "itemId": [
+                              "166340405930"
+                          ],
+                          "title": [
+                              "Apple - iPhone 15 - 256GB - Unlocked - Factory Warranty - All Colors"
+                          ],
+                          "globalId": [
+                              "EBAY-US"
+                          ],
+                          "subtitle": [
+                              "Free Fast Shipping. Factory Sealed. Factory Warranty."
+                          ],
+                          "primaryCategory": [
+                              {
+                                  "categoryId": [
+                                      "9355"
+                                  ],
+                                  "categoryName": [
+                                      "Cell Phones & Smartphones"
+                                  ]
+                              }
+                          ],
+                          "galleryURL": [
+                              "https://i.ebayimg.com/thumbs/images/g/cY4AAOSwWxZlCxd8/s-l140.jpg"
+                          ],
+                          "viewItemURL": [
+                              "https://www.ebay.com/itm/Apple-iPhone-15-256GB-Unlocked-Factory-Warranty-All-Colors-/166340405930?var=0"
+                          ],
+                          "autoPay": [
+                              "true"
+                          ],
+                          "postalCode": [
+                              "038**"
+                          ],
+                          "location": [
+                              "Plaistow,NH,USA"
+                          ],
+                          "country": [
+                              "US"
+                          ],
+                          "storeInfo": [
+                              {
+                                  "storeName": [
+                                      "ALLDAYZIP"
+                                  ],
+                                  "storeURL": [
+                                      "http://stores.ebay.com/ALLDAYZIP"
+                                  ]
+                              }
+                          ],
+                          "sellerInfo": [
+                              {
+                                  "sellerUserName": [
+                                      "alldayzip"
+                                  ],
+                                  "feedbackScore": [
+                                      "37273"
+                                  ],
+                                  "positiveFeedbackPercent": [
+                                      "99.4"
+                                  ],
+                                  "feedbackRatingStar": [
+                                      "TurquoiseShooting"
+                                  ],
+                                  "topRatedSeller": [
+                                      "true"
+                                  ]
+                              }
+                          ],
+                          "shippingInfo": [
+                              {
+                                  "shippingServiceCost": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "0.0"
+                                      }
+                                  ],
+                                  "shippingType": [
+                                      "Free"
+                                  ],
+                                  "shipToLocations": [
+                                      "Worldwide"
+                                  ],
+                                  "expeditedShipping": [
+                                      "false"
+                                  ],
+                                  "oneDayShippingAvailable": [
+                                      "false"
+                                  ],
+                                  "handlingTime": [
+                                      "1"
+                                  ]
+                              }
+                          ],
+                          "sellingStatus": [
+                              {
+                                  "currentPrice": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "979.0"
+                                      }
+                                  ],
+                                  "convertedCurrentPrice": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "979.0"
+                                      }
+                                  ],
+                                  "sellingState": [
+                                      "Active"
+                                  ],
+                                  "timeLeft": [
+                                      "P16DT16H30M58S"
+                                  ]
+                              }
+                          ],
+                          "listingInfo": [
+                              {
+                                  "bestOfferEnabled": [
+                                      "false"
+                                  ],
+                                  "buyItNowAvailable": [
+                                      "false"
+                                  ],
+                                  "startTime": [
+                                      "2023-09-20T18:25:02.000Z"
+                                  ],
+                                  "endTime": [
+                                      "2023-12-20T19:25:02.000Z"
+                                  ],
+                                  "listingType": [
+                                      "FixedPrice"
+                                  ],
+                                  "gift": [
+                                      "false"
+                                  ],
+                                  "watchCount": [
+                                      "145"
+                                  ]
+                              }
+                          ],
+                          "returnsAccepted": [
+                              "true"
+                          ],
+                          "condition": [
+                              {
+                                  "conditionId": [
+                                      "1000"
+                                  ],
+                                  "conditionDisplayName": [
+                                      "New"
+                                  ]
+                              }
+                          ],
+                          "isMultiVariationListing": [
+                              "true"
+                          ],
+                          "topRatedListing": [
+                              "true"
+                          ]
+                      },
+                      {
+                          "itemId": [
+                              "195423239668"
+                          ],
+                          "title": [
+                              "Apple iPhone SE 3rd Gen 2022 Fully Unlocked GSM/CDMA 5G SmartPhone 64GB 128GB"
+                          ],
+                          "globalId": [
+                              "EBAY-US"
+                          ],
+                          "primaryCategory": [
+                              {
+                                  "categoryId": [
+                                      "9355"
+                                  ],
+                                  "categoryName": [
+                                      "Cell Phones & Smartphones"
+                                  ]
+                              }
+                          ],
+                          "galleryURL": [
+                              "https://i.ebayimg.com/thumbs/images/g/LoYAAOSwg95j5q6N/s-l140.jpg"
+                          ],
+                          "viewItemURL": [
+                              "https://www.ebay.com/itm/Apple-iPhone-SE-3rd-Gen-2022-Fully-Unlocked-GSM-CDMA-5G-SmartPhone-64GB-128GB-/195423239668?var=495400335656"
+                          ],
+                          "autoPay": [
+                              "true"
+                          ],
+                          "postalCode": [
+                              "112**"
+                          ],
+                          "location": [
+                              "Brooklyn,NY,USA"
+                          ],
+                          "country": [
+                              "US"
+                          ],
+                          "storeInfo": [
+                              {
+                                  "storeName": [
+                                      "CellularPlasa"
+                                  ],
+                                  "storeURL": [
+                                      "http://stores.ebay.com/CellularPlasa"
+                                  ]
+                              }
+                          ],
+                          "sellerInfo": [
+                              {
+                                  "sellerUserName": [
+                                      "sami809"
+                                  ],
+                                  "feedbackScore": [
+                                      "253169"
+                                  ],
+                                  "positiveFeedbackPercent": [
+                                      "98.0"
+                                  ],
+                                  "feedbackRatingStar": [
+                                      "RedShooting"
+                                  ],
+                                  "topRatedSeller": [
+                                      "true"
+                                  ]
+                              }
+                          ],
+                          "shippingInfo": [
+                              {
+                                  "shippingServiceCost": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "0.0"
+                                      }
+                                  ],
+                                  "shippingType": [
+                                      "Free"
+                                  ],
+                                  "shipToLocations": [
+                                      "Worldwide"
+                                  ],
+                                  "expeditedShipping": [
+                                      "false"
+                                  ],
+                                  "oneDayShippingAvailable": [
+                                      "false"
+                                  ],
+                                  "handlingTime": [
+                                      "1"
+                                  ]
+                              }
+                          ],
+                          "sellingStatus": [
+                              {
+                                  "currentPrice": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "268.99"
+                                      }
+                                  ],
+                                  "convertedCurrentPrice": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "268.99"
+                                      }
+                                  ],
+                                  "sellingState": [
+                                      "Active"
+                                  ],
+                                  "timeLeft": [
+                                      "P15DT17H30M5S"
+                                  ]
+                              }
+                          ],
+                          "listingInfo": [
+                              {
+                                  "bestOfferEnabled": [
+                                      "false"
+                                  ],
+                                  "buyItNowAvailable": [
+                                      "false"
+                                  ],
+                                  "startTime": [
+                                      "2022-10-19T19:24:09.000Z"
+                                  ],
+                                  "endTime": [
+                                      "2023-12-19T20:24:09.000Z"
+                                  ],
+                                  "listingType": [
+                                      "FixedPrice"
+                                  ],
+                                  "gift": [
+                                      "false"
+                                  ],
+                                  "watchCount": [
+                                      "105"
+                                  ]
+                              }
+                          ],
+                          "returnsAccepted": [
+                              "true"
+                          ],
+                          "condition": [
+                              {
+                                  "conditionId": [
+                                      "1500"
+                                  ],
+                                  "conditionDisplayName": [
+                                      "Open box"
+                                  ]
+                              }
+                          ],
+                          "isMultiVariationListing": [
+                              "true"
+                          ],
+                          "topRatedListing": [
+                              "true"
+                          ]
+                      },
+                      {
+                          "itemId": [
+                              "175724066078"
+                          ],
+                          "title": [
+                              "Apple iPhone SE 2020 - 64GB - All Colors - Fully Unlocked - Excellent Condition"
+                          ],
+                          "globalId": [
+                              "EBAY-US"
+                          ],
+                          "subtitle": [
+                              "Original Box ✔ Genuine USB Cable ✔ Free 2-Day Shipping"
+                          ],
+                          "primaryCategory": [
+                              {
+                                  "categoryId": [
+                                      "9355"
+                                  ],
+                                  "categoryName": [
+                                      "Cell Phones & Smartphones"
+                                  ]
+                              }
+                          ],
+                          "galleryURL": [
+                              "https://i.ebayimg.com/thumbs/images/g/4u0AAOSwLSpkXp7~/s-l140.jpg"
+                          ],
+                          "viewItemURL": [
+                              "https://www.ebay.com/itm/Apple-iPhone-SE-2020-64GB-All-Colors-Fully-Unlocked-Excellent-Condition-/175724066078?var=0"
+                          ],
+                          "autoPay": [
+                              "true"
+                          ],
+                          "postalCode": [
+                              "117**"
+                          ],
+                          "location": [
+                              "Hauppauge,NY,USA"
+                          ],
+                          "country": [
+                              "US"
+                          ],
+                          "storeInfo": [
+                              {
+                                  "storeName": [
+                                      "CREO Cellular"
+                                  ],
+                                  "storeURL": [
+                                      "http://stores.ebay.com/CREO-Cellular"
+                                  ]
+                              }
+                          ],
+                          "sellerInfo": [
+                              {
+                                  "sellerUserName": [
+                                      "creo_cellular"
+                                  ],
+                                  "feedbackScore": [
+                                      "28617"
+                                  ],
+                                  "positiveFeedbackPercent": [
+                                      "97.3"
+                                  ],
+                                  "feedbackRatingStar": [
+                                      "TurquoiseShooting"
+                                  ],
+                                  "topRatedSeller": [
+                                      "true"
+                                  ]
+                              }
+                          ],
+                          "shippingInfo": [
+                              {
+                                  "shippingServiceCost": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "0.0"
+                                      }
+                                  ],
+                                  "shippingType": [
+                                      "Free"
+                                  ],
+                                  "shipToLocations": [
+                                      "Worldwide"
+                                  ],
+                                  "expeditedShipping": [
+                                      "true"
+                                  ],
+                                  "oneDayShippingAvailable": [
+                                      "true"
+                                  ],
+                                  "handlingTime": [
+                                      "1"
+                                  ]
+                              }
+                          ],
+                          "sellingStatus": [
+                              {
+                                  "currentPrice": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "144.99"
+                                      }
+                                  ],
+                                  "convertedCurrentPrice": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "144.99"
+                                      }
+                                  ],
+                                  "sellingState": [
+                                      "Active"
+                                  ],
+                                  "timeLeft": [
+                                      "P8DT18H29M45S"
+                                  ]
+                              }
+                          ],
+                          "listingInfo": [
+                              {
+                                  "bestOfferEnabled": [
+                                      "false"
+                                  ],
+                                  "buyItNowAvailable": [
+                                      "false"
+                                  ],
+                                  "startTime": [
+                                      "2023-05-12T20:23:49.000Z"
+                                  ],
+                                  "endTime": [
+                                      "2023-12-12T21:23:49.000Z"
+                                  ],
+                                  "listingType": [
+                                      "FixedPrice"
+                                  ],
+                                  "gift": [
+                                      "false"
+                                  ],
+                                  "watchCount": [
+                                      "623"
+                                  ]
+                              }
+                          ],
+                          "returnsAccepted": [
+                              "true"
+                          ],
+                          "condition": [
+                              {
+                                  "conditionId": [
+                                      "1500"
+                                  ],
+                                  "conditionDisplayName": [
+                                      "Open box"
+                                  ]
+                              }
+                          ],
+                          "isMultiVariationListing": [
+                              "true"
+                          ],
+                          "topRatedListing": [
+                              "true"
+                          ]
+                      },
+                      {
+                          "itemId": [
+                              "175916238822"
+                          ],
+                          "title": [
+                              "Apple iPhone 12 64GB 128GB Unlocked Bundle with MagSafe - All Colors - Excellent"
+                          ],
+                          "globalId": [
+                              "EBAY-US"
+                          ],
+                          "subtitle": [
+                              "Fast Charger and MagSafe ✔ Original Box ✔ 2-Day Ship"
+                          ],
+                          "primaryCategory": [
+                              {
+                                  "categoryId": [
+                                      "9355"
+                                  ],
+                                  "categoryName": [
+                                      "Cell Phones & Smartphones"
+                                  ]
+                              }
+                          ],
+                          "galleryURL": [
+                              "https://i.ebayimg.com/thumbs/images/g/XC8AAOSwDiFkC6hu/s-l140.jpg"
+                          ],
+                          "viewItemURL": [
+                              "https://www.ebay.com/itm/Apple-iPhone-12-64GB-128GB-Unlocked-Bundle-MagSafe-All-Colors-Excellent-/175916238822?var=475446368369"
+                          ],
+                          "autoPay": [
+                              "true"
+                          ],
+                          "postalCode": [
+                              "117**"
+                          ],
+                          "location": [
+                              "Hauppauge,NY,USA"
+                          ],
+                          "country": [
+                              "US"
+                          ],
+                          "storeInfo": [
+                              {
+                                  "storeName": [
+                                      "CREO Cellular"
+                                  ],
+                                  "storeURL": [
+                                      "http://stores.ebay.com/CREO-Cellular"
+                                  ]
+                              }
+                          ],
+                          "sellerInfo": [
+                              {
+                                  "sellerUserName": [
+                                      "creo_cellular"
+                                  ],
+                                  "feedbackScore": [
+                                      "28618"
+                                  ],
+                                  "positiveFeedbackPercent": [
+                                      "97.3"
+                                  ],
+                                  "feedbackRatingStar": [
+                                      "TurquoiseShooting"
+                                  ],
+                                  "topRatedSeller": [
+                                      "true"
+                                  ]
+                              }
+                          ],
+                          "shippingInfo": [
+                              {
+                                  "shippingServiceCost": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "0.0"
+                                      }
+                                  ],
+                                  "shippingType": [
+                                      "Free"
+                                  ],
+                                  "shipToLocations": [
+                                      "Worldwide"
+                                  ],
+                                  "expeditedShipping": [
+                                      "false"
+                                  ],
+                                  "oneDayShippingAvailable": [
+                                      "true"
+                                  ],
+                                  "handlingTime": [
+                                      "1"
+                                  ]
+                              }
+                          ],
+                          "sellingStatus": [
+                              {
+                                  "currentPrice": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "414.99"
+                                      }
+                                  ],
+                                  "convertedCurrentPrice": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "414.99"
+                                      }
+                                  ],
+                                  "sellingState": [
+                                      "Active"
+                                  ],
+                                  "timeLeft": [
+                                      "P18DT19H25M6S"
+                                  ]
+                              }
+                          ],
+                          "listingInfo": [
+                              {
+                                  "bestOfferEnabled": [
+                                      "false"
+                                  ],
+                                  "buyItNowAvailable": [
+                                      "false"
+                                  ],
+                                  "startTime": [
+                                      "2023-09-22T21:19:10.000Z"
+                                  ],
+                                  "endTime": [
+                                      "2023-12-22T22:19:10.000Z"
+                                  ],
+                                  "listingType": [
+                                      "FixedPrice"
+                                  ],
+                                  "gift": [
+                                      "false"
+                                  ],
+                                  "watchCount": [
+                                      "56"
+                                  ]
+                              }
+                          ],
+                          "returnsAccepted": [
+                              "true"
+                          ],
+                          "condition": [
+                              {
+                                  "conditionId": [
+                                      "1500"
+                                  ],
+                                  "conditionDisplayName": [
+                                      "Open box"
+                                  ]
+                              }
+                          ],
+                          "isMultiVariationListing": [
+                              "true"
+                          ],
+                          "topRatedListing": [
+                              "true"
+                          ]
+                      },
+                      {
+                          "itemId": [
+                              "275806744644"
+                          ],
+                          "title": [
+                              "Apple iPhone 14 Plus - 128GB - Midnight (Unlocked) - AppleCare+"
+                          ],
+                          "globalId": [
+                              "EBAY-US"
+                          ],
+                          "primaryCategory": [
+                              {
+                                  "categoryId": [
+                                      "9355"
+                                  ],
+                                  "categoryName": [
+                                      "Cell Phones & Smartphones"
+                                  ]
+                              }
+                          ],
+                          "galleryURL": [
+                              "https://i.ebayimg.com/thumbs/images/g/xTIAAOSwVQNkQCvl/s-l140.jpg"
+                          ],
+                          "viewItemURL": [
+                              "https://www.ebay.com/itm/Apple-iPhone-14-Plus-128GB-Midnight-Unlocked-AppleCare-/275806744644"
+                          ],
+                          "productId": [
+                              {
+                                  "@type": "ReferenceID",
+                                  "__value__": "26056267419"
+                              }
+                          ],
+                          "autoPay": [
+                              "true"
+                          ],
+                          "postalCode": [
+                              "930**"
+                          ],
+                          "location": [
+                              "Carpinteria,CA,USA"
+                          ],
+                          "country": [
+                              "US"
+                          ],
+                          "storeInfo": [
+                              {
+                                  "storeName": [
+                                      "iPowerResale Inc"
+                                  ],
+                                  "storeURL": [
+                                      "http://stores.ebay.com/iPowerResale-Inc"
+                                  ]
+                              }
+                          ],
+                          "sellerInfo": [
+                              {
+                                  "sellerUserName": [
+                                      "ipowerresale"
+                                  ],
+                                  "feedbackScore": [
+                                      "8359"
+                                  ],
+                                  "positiveFeedbackPercent": [
+                                      "99.2"
+                                  ],
+                                  "feedbackRatingStar": [
+                                      "Green"
+                                  ],
+                                  "topRatedSeller": [
+                                      "true"
+                                  ]
+                              }
+                          ],
+                          "shippingInfo": [
+                              {
+                                  "shippingServiceCost": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "0.0"
+                                      }
+                                  ],
+                                  "shippingType": [
+                                      "Free"
+                                  ],
+                                  "shipToLocations": [
+                                      "Worldwide"
+                                  ],
+                                  "expeditedShipping": [
+                                      "false"
+                                  ],
+                                  "oneDayShippingAvailable": [
+                                      "true"
+                                  ],
+                                  "handlingTime": [
+                                      "1"
+                                  ]
+                              }
+                          ],
+                          "sellingStatus": [
+                              {
+                                  "currentPrice": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "649.0"
+                                      }
+                                  ],
+                                  "convertedCurrentPrice": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "649.0"
+                                      }
+                                  ],
+                                  "sellingState": [
+                                      "Active"
+                                  ],
+                                  "timeLeft": [
+                                      "P15DT16H13M36S"
+                                  ]
+                              }
+                          ],
+                          "listingInfo": [
+                              {
+                                  "bestOfferEnabled": [
+                                      "true"
+                                  ],
+                                  "buyItNowAvailable": [
+                                      "false"
+                                  ],
+                                  "startTime": [
+                                      "2023-04-19T18:07:40.000Z"
+                                  ],
+                                  "endTime": [
+                                      "2023-12-19T19:07:40.000Z"
+                                  ],
+                                  "listingType": [
+                                      "FixedPrice"
+                                  ],
+                                  "gift": [
+                                      "false"
+                                  ],
+                                  "watchCount": [
+                                      "229"
+                                  ]
+                              }
+                          ],
+                          "returnsAccepted": [
+                              "true"
+                          ],
+                          "condition": [
+                              {
+                                  "conditionId": [
+                                      "1500"
+                                  ],
+                                  "conditionDisplayName": [
+                                      "Open box"
+                                  ]
+                              }
+                          ],
+                          "isMultiVariationListing": [
+                              "false"
+                          ],
+                          "topRatedListing": [
+                              "true"
+                          ]
+                      },
+                      {
+                          "itemId": [
+                              "275806681138"
+                          ],
+                          "title": [
+                              "Apple iPhone 14 Pro - 128GB - Space Black (Unlocked) - AppleCare+"
+                          ],
+                          "globalId": [
+                              "EBAY-US"
+                          ],
+                          "primaryCategory": [
+                              {
+                                  "categoryId": [
+                                      "9355"
+                                  ],
+                                  "categoryName": [
+                                      "Cell Phones & Smartphones"
+                                  ]
+                              }
+                          ],
+                          "galleryURL": [
+                              "https://i.ebayimg.com/thumbs/images/g/JS4AAOSwL1xkQCeY/s-l140.jpg"
+                          ],
+                          "viewItemURL": [
+                              "https://www.ebay.com/itm/Apple-iPhone-14-Pro-128GB-Space-Black-Unlocked-AppleCare-/275806681138"
+                          ],
+                          "productId": [
+                              {
+                                  "@type": "ReferenceID",
+                                  "__value__": "10056260250"
+                              }
+                          ],
+                          "autoPay": [
+                              "true"
+                          ],
+                          "postalCode": [
+                              "930**"
+                          ],
+                          "location": [
+                              "Carpinteria,CA,USA"
+                          ],
+                          "country": [
+                              "US"
+                          ],
+                          "storeInfo": [
+                              {
+                                  "storeName": [
+                                      "iPowerResale Inc"
+                                  ],
+                                  "storeURL": [
+                                      "http://stores.ebay.com/iPowerResale-Inc"
+                                  ]
+                              }
+                          ],
+                          "sellerInfo": [
+                              {
+                                  "sellerUserName": [
+                                      "ipowerresale"
+                                  ],
+                                  "feedbackScore": [
+                                      "8351"
+                                  ],
+                                  "positiveFeedbackPercent": [
+                                      "99.2"
+                                  ],
+                                  "feedbackRatingStar": [
+                                      "Green"
+                                  ],
+                                  "topRatedSeller": [
+                                      "true"
+                                  ]
+                              }
+                          ],
+                          "shippingInfo": [
+                              {
+                                  "shippingServiceCost": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "0.0"
+                                      }
+                                  ],
+                                  "shippingType": [
+                                      "Free"
+                                  ],
+                                  "shipToLocations": [
+                                      "Worldwide"
+                                  ],
+                                  "expeditedShipping": [
+                                      "false"
+                                  ],
+                                  "oneDayShippingAvailable": [
+                                      "true"
+                                  ],
+                                  "handlingTime": [
+                                      "1"
+                                  ]
+                              }
+                          ],
+                          "sellingStatus": [
+                              {
+                                  "currentPrice": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "789.0"
+                                      }
+                                  ],
+                                  "convertedCurrentPrice": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "789.0"
+                                      }
+                                  ],
+                                  "sellingState": [
+                                      "Active"
+                                  ],
+                                  "timeLeft": [
+                                      "P15DT15H48M48S"
+                                  ]
+                              }
+                          ],
+                          "listingInfo": [
+                              {
+                                  "bestOfferEnabled": [
+                                      "true"
+                                  ],
+                                  "buyItNowAvailable": [
+                                      "false"
+                                  ],
+                                  "startTime": [
+                                      "2023-04-19T17:42:52.000Z"
+                                  ],
+                                  "endTime": [
+                                      "2023-12-19T18:42:52.000Z"
+                                  ],
+                                  "listingType": [
+                                      "FixedPrice"
+                                  ],
+                                  "gift": [
+                                      "false"
+                                  ],
+                                  "watchCount": [
+                                      "419"
+                                  ]
+                              }
+                          ],
+                          "returnsAccepted": [
+                              "true"
+                          ],
+                          "condition": [
+                              {
+                                  "conditionId": [
+                                      "1500"
+                                  ],
+                                  "conditionDisplayName": [
+                                      "Open box"
+                                  ]
+                              }
+                          ],
+                          "isMultiVariationListing": [
+                              "false"
+                          ],
+                          "topRatedListing": [
+                              "true"
+                          ]
+                      },
+                      {
+                          "itemId": [
+                              "125626939866"
+                          ],
+                          "title": [
+                              "NEW Apple iPhone 13 A2482 (GSM + CDMA)  Factory UNLOCKED🔓 ALL COLORS & CAPACITY"
+                          ],
+                          "globalId": [
+                              "EBAY-US"
+                          ],
+                          "subtitle": [
+                              "❗CYBER MONDAY BLOWOUT SALE🔥AMAZING PRICES🔥FREE 2DAY🚀"
+                          ],
+                          "primaryCategory": [
+                              {
+                                  "categoryId": [
+                                      "9355"
+                                  ],
+                                  "categoryName": [
+                                      "Cell Phones & Smartphones"
+                                  ]
+                              }
+                          ],
+                          "galleryURL": [
+                              "https://i.ebayimg.com/thumbs/images/g/ApQAAOSwbDllY3g5/s-l140.jpg"
+                          ],
+                          "viewItemURL": [
+                              "https://www.ebay.com/itm/NEW-Apple-iPhone-13-A2482-GSM-CDMA-Factory-UNLOCKED-ALL-COLORS-CAPACITY-/125626939866?var=0"
+                          ],
+                          "autoPay": [
+                              "true"
+                          ],
+                          "postalCode": [
+                              "606**"
+                          ],
+                          "location": [
+                              "Chicago,IL,USA"
+                          ],
+                          "country": [
+                              "US"
+                          ],
+                          "storeInfo": [
+                              {
+                                  "storeName": [
+                                      "ElectroSales007"
+                                  ],
+                                  "storeURL": [
+                                      "http://stores.ebay.com/ElectroSales007"
+                                  ]
+                              }
+                          ],
+                          "sellerInfo": [
+                              {
+                                  "sellerUserName": [
+                                      "electrosales007"
+                                  ],
+                                  "feedbackScore": [
+                                      "3135"
+                                  ],
+                                  "positiveFeedbackPercent": [
+                                      "99.5"
+                                  ],
+                                  "feedbackRatingStar": [
+                                      "Red"
+                                  ],
+                                  "topRatedSeller": [
+                                      "true"
+                                  ]
+                              }
+                          ],
+                          "shippingInfo": [
+                              {
+                                  "shippingServiceCost": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "0.0"
+                                      }
+                                  ],
+                                  "shippingType": [
+                                      "Free"
+                                  ],
+                                  "shipToLocations": [
+                                      "Worldwide"
+                                  ],
+                                  "expeditedShipping": [
+                                      "true"
+                                  ],
+                                  "oneDayShippingAvailable": [
+                                      "true"
+                                  ],
+                                  "handlingTime": [
+                                      "1"
+                                  ]
+                              }
+                          ],
+                          "sellingStatus": [
+                              {
+                                  "currentPrice": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "609.99"
+                                      }
+                                  ],
+                                  "convertedCurrentPrice": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "609.99"
+                                      }
+                                  ],
+                                  "sellingState": [
+                                      "Active"
+                                  ],
+                                  "timeLeft": [
+                                      "P19DT13H51M8S"
+                                  ]
+                              }
+                          ],
+                          "listingInfo": [
+                              {
+                                  "bestOfferEnabled": [
+                                      "false"
+                                  ],
+                                  "buyItNowAvailable": [
+                                      "false"
+                                  ],
+                                  "startTime": [
+                                      "2022-11-23T16:45:12.000Z"
+                                  ],
+                                  "endTime": [
+                                      "2023-12-23T16:45:12.000Z"
+                                  ],
+                                  "listingType": [
+                                      "FixedPrice"
+                                  ],
+                                  "gift": [
+                                      "false"
+                                  ],
+                                  "watchCount": [
+                                      "139"
+                                  ]
+                              }
+                          ],
+                          "returnsAccepted": [
+                              "true"
+                          ],
+                          "condition": [
+                              {
+                                  "conditionId": [
+                                      "1000"
+                                  ],
+                                  "conditionDisplayName": [
+                                      "New"
+                                  ]
+                              }
+                          ],
+                          "isMultiVariationListing": [
+                              "true"
+                          ],
+                          "topRatedListing": [
+                              "true"
+                          ]
+                      },
+                      {
+                          "itemId": [
+                              "115969887537"
+                          ],
+                          "title": [
+                              "Apple iPhone 12 64GB Black / Red / Blue / White T-Mobile Smartphone 5G"
+                          ],
+                          "globalId": [
+                              "EBAY-US"
+                          ],
+                          "subtitle": [
+                              "US Top Seller ~ Same day shipping ~ Free return"
+                          ],
+                          "primaryCategory": [
+                              {
+                                  "categoryId": [
+                                      "9355"
+                                  ],
+                                  "categoryName": [
+                                      "Cell Phones & Smartphones"
+                                  ]
+                              }
+                          ],
+                          "galleryURL": [
+                              "https://i.ebayimg.com/thumbs/images/g/XE4AAOSwcOplTDyD/s-l140.jpg"
+                          ],
+                          "viewItemURL": [
+                              "https://www.ebay.com/itm/Apple-iPhone-12-64GB-Black-Red-Blue-White-T-Mobile-Smartphone-5G-/115969887537?var=0"
+                          ],
+                          "autoPay": [
+                              "true"
+                          ],
+                          "postalCode": [
+                              "770**"
+                          ],
+                          "location": [
+                              "Houston,TX,USA"
+                          ],
+                          "country": [
+                              "US"
+                          ],
+                          "storeInfo": [
+                              {
+                                  "storeName": [
+                                      "Solarc"
+                                  ],
+                                  "storeURL": [
+                                      "http://stores.ebay.com/Solarc"
+                                  ]
+                              }
+                          ],
+                          "sellerInfo": [
+                              {
+                                  "sellerUserName": [
+                                      "solarcprod"
+                                  ],
+                                  "feedbackScore": [
+                                      "6328"
+                                  ],
+                                  "positiveFeedbackPercent": [
+                                      "98.5"
+                                  ],
+                                  "feedbackRatingStar": [
+                                      "Green"
+                                  ],
+                                  "topRatedSeller": [
+                                      "true"
+                                  ]
+                              }
+                          ],
+                          "shippingInfo": [
+                              {
+                                  "shippingServiceCost": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "0.0"
+                                      }
+                                  ],
+                                  "shippingType": [
+                                      "Free"
+                                  ],
+                                  "shipToLocations": [
+                                      "Worldwide"
+                                  ],
+                                  "expeditedShipping": [
+                                      "true"
+                                  ],
+                                  "oneDayShippingAvailable": [
+                                      "false"
+                                  ],
+                                  "handlingTime": [
+                                      "0"
+                                  ]
+                              }
+                          ],
+                          "sellingStatus": [
+                              {
+                                  "currentPrice": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "296.0"
+                                      }
+                                  ],
+                                  "convertedCurrentPrice": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "296.0"
+                                      }
+                                  ],
+                                  "sellingState": [
+                                      "Active"
+                                  ],
+                                  "timeLeft": [
+                                      "P4DT23H3M28S"
+                                  ]
+                              }
+                          ],
+                          "listingInfo": [
+                              {
+                                  "bestOfferEnabled": [
+                                      "false"
+                                  ],
+                                  "buyItNowAvailable": [
+                                      "false"
+                                  ],
+                                  "startTime": [
+                                      "2023-11-09T01:57:32.000Z"
+                                  ],
+                                  "endTime": [
+                                      "2023-12-09T01:57:32.000Z"
+                                  ],
+                                  "listingType": [
+                                      "FixedPrice"
+                                  ],
+                                  "gift": [
+                                      "false"
+                                  ],
+                                  "watchCount": [
+                                      "203"
+                                  ]
+                              }
+                          ],
+                          "returnsAccepted": [
+                              "true"
+                          ],
+                          "condition": [
+                              {
+                                  "conditionId": [
+                                      "1500"
+                                  ],
+                                  "conditionDisplayName": [
+                                      "Open box"
+                                  ]
+                              }
+                          ],
+                          "isMultiVariationListing": [
+                              "true"
+                          ],
+                          "topRatedListing": [
+                              "true"
+                          ]
+                      },
+                      {
+                          "itemId": [
+                              "175945719377"
+                          ],
+                          "title": [
+                              "Apple iPhone 13 128GB (Unlocked) Bundle with MagSafe - All Colors - Excellent"
+                          ],
+                          "globalId": [
+                              "EBAY-US"
+                          ],
+                          "subtitle": [
+                              "Fast Charger and MagSafe ✔ Original Box ✔ A+ GRADE"
+                          ],
+                          "primaryCategory": [
+                              {
+                                  "categoryId": [
+                                      "9355"
+                                  ],
+                                  "categoryName": [
+                                      "Cell Phones & Smartphones"
+                                  ]
+                              }
+                          ],
+                          "galleryURL": [
+                              "https://i.ebayimg.com/thumbs/images/g/s4cAAOSw3WllIHuV/s-l140.jpg"
+                          ],
+                          "viewItemURL": [
+                              "https://www.ebay.com/itm/Apple-iPhone-13-128GB-Unlocked-Bundle-MagSafe-All-Colors-Excellent-/175945719377?var=0"
+                          ],
+                          "autoPay": [
+                              "true"
+                          ],
+                          "postalCode": [
+                              "117**"
+                          ],
+                          "location": [
+                              "Hauppauge,NY,USA"
+                          ],
+                          "country": [
+                              "US"
+                          ],
+                          "storeInfo": [
+                              {
+                                  "storeName": [
+                                      "CREO Cellular"
+                                  ],
+                                  "storeURL": [
+                                      "http://stores.ebay.com/CREO-Cellular"
+                                  ]
+                              }
+                          ],
+                          "sellerInfo": [
+                              {
+                                  "sellerUserName": [
+                                      "creo_cellular"
+                                  ],
+                                  "feedbackScore": [
+                                      "28587"
+                                  ],
+                                  "positiveFeedbackPercent": [
+                                      "97.3"
+                                  ],
+                                  "feedbackRatingStar": [
+                                      "TurquoiseShooting"
+                                  ],
+                                  "topRatedSeller": [
+                                      "true"
+                                  ]
+                              }
+                          ],
+                          "shippingInfo": [
+                              {
+                                  "shippingServiceCost": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "0.0"
+                                      }
+                                  ],
+                                  "shippingType": [
+                                      "Free"
+                                  ],
+                                  "shipToLocations": [
+                                      "Worldwide"
+                                  ],
+                                  "expeditedShipping": [
+                                      "true"
+                                  ],
+                                  "oneDayShippingAvailable": [
+                                      "true"
+                                  ],
+                                  "handlingTime": [
+                                      "1"
+                                  ]
+                              }
+                          ],
+                          "sellingStatus": [
+                              {
+                                  "currentPrice": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "507.49"
+                                      }
+                                  ],
+                                  "convertedCurrentPrice": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "507.49"
+                                      }
+                                  ],
+                                  "sellingState": [
+                                      "Active"
+                                  ],
+                                  "timeLeft": [
+                                      "P2DT19H36M50S"
+                                  ]
+                              }
+                          ],
+                          "listingInfo": [
+                              {
+                                  "bestOfferEnabled": [
+                                      "false"
+                                  ],
+                                  "buyItNowAvailable": [
+                                      "false"
+                                  ],
+                                  "startTime": [
+                                      "2023-10-06T21:30:54.000Z"
+                                  ],
+                                  "endTime": [
+                                      "2023-12-06T22:30:54.000Z"
+                                  ],
+                                  "listingType": [
+                                      "FixedPrice"
+                                  ],
+                                  "gift": [
+                                      "false"
+                                  ],
+                                  "watchCount": [
+                                      "139"
+                                  ]
+                              }
+                          ],
+                          "returnsAccepted": [
+                              "true"
+                          ],
+                          "condition": [
+                              {
+                                  "conditionId": [
+                                      "1500"
+                                  ],
+                                  "conditionDisplayName": [
+                                      "Open box"
+                                  ]
+                              }
+                          ],
+                          "isMultiVariationListing": [
+                              "true"
+                          ],
+                          "topRatedListing": [
+                              "true"
+                          ]
+                      },
+                      {
+                          "itemId": [
+                              "115994089495"
+                          ],
+                          "title": [
+                              "Apple iPhone 12 - 64GB - Blue  (AT&T)"
+                          ],
+                          "globalId": [
+                              "EBAY-US"
+                          ],
+                          "primaryCategory": [
+                              {
+                                  "categoryId": [
+                                      "9355"
+                                  ],
+                                  "categoryName": [
+                                      "Cell Phones & Smartphones"
+                                  ]
+                              }
+                          ],
+                          "galleryURL": [
+                              "https://i.ebayimg.com/thumbs/images/g/wLIAAOSw1r1lWq7w/s-l140.jpg"
+                          ],
+                          "viewItemURL": [
+                              "https://www.ebay.com/itm/Apple-iPhone-12-64GB-Blue-AT-T-/115994089495"
+                          ],
+                          "autoPay": [
+                              "true"
+                          ],
+                          "postalCode": [
+                              "553**"
+                          ],
+                          "location": [
+                              "Hopkins,MN,USA"
+                          ],
+                          "country": [
+                              "US"
+                          ],
+                          "storeInfo": [
+                              {
+                                  "storeName": [
+                                      "JTC Auctions"
+                                  ],
+                                  "storeURL": [
+                                      "http://stores.ebay.com/JTC-Auctions"
+                                  ]
+                              }
+                          ],
+                          "sellerInfo": [
+                              {
+                                  "sellerUserName": [
+                                      "jtcauctions"
+                                  ],
+                                  "feedbackScore": [
+                                      "1397"
+                                  ],
+                                  "positiveFeedbackPercent": [
+                                      "100.0"
+                                  ],
+                                  "feedbackRatingStar": [
+                                      "Red"
+                                  ],
+                                  "topRatedSeller": [
+                                      "false"
+                                  ]
+                              }
+                          ],
+                          "shippingInfo": [
+                              {
+                                  "shippingType": [
+                                      "Calculated"
+                                  ],
+                                  "shipToLocations": [
+                                      "Worldwide"
+                                  ],
+                                  "expeditedShipping": [
+                                      "false"
+                                  ],
+                                  "oneDayShippingAvailable": [
+                                      "false"
+                                  ],
+                                  "handlingTime": [
+                                      "1"
+                                  ]
+                              }
+                          ],
+                          "sellingStatus": [
+                              {
+                                  "currentPrice": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "321.12"
+                                      }
+                                  ],
+                                  "convertedCurrentPrice": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "321.12"
+                                      }
+                                  ],
+                                  "bidCount": [
+                                      "42"
+                                  ],
+                                  "sellingState": [
+                                      "Active"
+                                  ],
+                                  "timeLeft": [
+                                      "P0DT0H22M14S"
+                                  ]
+                              }
+                          ],
+                          "listingInfo": [
+                              {
+                                  "bestOfferEnabled": [
+                                      "false"
+                                  ],
+                                  "buyItNowAvailable": [
+                                      "true"
+                                  ],
+                                  "buyItNowPrice": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "399.99"
+                                      }
+                                  ],
+                                  "convertedBuyItNowPrice": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "399.99"
+                                      }
+                                  ],
+                                  "startTime": [
+                                      "2023-11-29T03:16:18.000Z"
+                                  ],
+                                  "endTime": [
+                                      "2023-12-04T03:16:18.000Z"
+                                  ],
+                                  "listingType": [
+                                      "AuctionWithBIN"
+                                  ],
+                                  "gift": [
+                                      "false"
+                                  ],
+                                  "watchCount": [
+                                      "26"
+                                  ]
+                              }
+                          ],
+                          "returnsAccepted": [
+                              "false"
+                          ],
+                          "condition": [
+                              {
+                                  "conditionId": [
+                                      "1000"
+                                  ],
+                                  "conditionDisplayName": [
+                                      "New"
+                                  ]
+                              }
+                          ],
+                          "isMultiVariationListing": [
+                              "false"
+                          ],
+                          "topRatedListing": [
+                              "false"
+                          ]
+                      },
+                      {
+                          "itemId": [
+                              "125500369709"
+                          ],
+                          "title": [
+                              "NEW Apple iPhone 12 A2172 (GSM + CDMA) FACTORY UNLOCKED🔓ALL COLORS & CAPACITY"
+                          ],
+                          "globalId": [
+                              "EBAY-US"
+                          ],
+                          "subtitle": [
+                              "❗CYBER MONDAY BLOWOUT SALE🔥AMAZING PRICES🔥FREE 2DAY🚀"
+                          ],
+                          "primaryCategory": [
+                              {
+                                  "categoryId": [
+                                      "9355"
+                                  ],
+                                  "categoryName": [
+                                      "Cell Phones & Smartphones"
+                                  ]
+                              }
+                          ],
+                          "galleryURL": [
+                              "https://i.ebayimg.com/thumbs/images/g/mNQAAOSwEiRlY3XV/s-l140.jpg"
+                          ],
+                          "viewItemURL": [
+                              "https://www.ebay.com/itm/NEW-Apple-iPhone-12-A2172-GSM-CDMA-FACTORY-UNLOCKED-ALL-COLORS-CAPACITY-/125500369709?var=0"
+                          ],
+                          "autoPay": [
+                              "true"
+                          ],
+                          "postalCode": [
+                              "606**"
+                          ],
+                          "location": [
+                              "Chicago,IL,USA"
+                          ],
+                          "country": [
+                              "US"
+                          ],
+                          "storeInfo": [
+                              {
+                                  "storeName": [
+                                      "ElectroSales007"
+                                  ],
+                                  "storeURL": [
+                                      "http://stores.ebay.com/ElectroSales007"
+                                  ]
+                              }
+                          ],
+                          "sellerInfo": [
+                              {
+                                  "sellerUserName": [
+                                      "electrosales007"
+                                  ],
+                                  "feedbackScore": [
+                                      "3133"
+                                  ],
+                                  "positiveFeedbackPercent": [
+                                      "99.5"
+                                  ],
+                                  "feedbackRatingStar": [
+                                      "Red"
+                                  ],
+                                  "topRatedSeller": [
+                                      "true"
+                                  ]
+                              }
+                          ],
+                          "shippingInfo": [
+                              {
+                                  "shippingServiceCost": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "0.0"
+                                      }
+                                  ],
+                                  "shippingType": [
+                                      "Free"
+                                  ],
+                                  "shipToLocations": [
+                                      "Worldwide"
+                                  ],
+                                  "expeditedShipping": [
+                                      "true"
+                                  ],
+                                  "oneDayShippingAvailable": [
+                                      "true"
+                                  ],
+                                  "handlingTime": [
+                                      "1"
+                                  ]
+                              }
+                          ],
+                          "sellingStatus": [
+                              {
+                                  "currentPrice": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "449.99"
+                                      }
+                                  ],
+                                  "convertedCurrentPrice": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "449.99"
+                                      }
+                                  ],
+                                  "sellingState": [
+                                      "Active"
+                                  ],
+                                  "timeLeft": [
+                                      "P2DT19H3M7S"
+                                  ]
+                              }
+                          ],
+                          "listingInfo": [
+                              {
+                                  "bestOfferEnabled": [
+                                      "false"
+                                  ],
+                                  "buyItNowAvailable": [
+                                      "false"
+                                  ],
+                                  "startTime": [
+                                      "2022-09-06T20:57:11.000Z"
+                                  ],
+                                  "endTime": [
+                                      "2023-12-06T21:57:11.000Z"
+                                  ],
+                                  "listingType": [
+                                      "FixedPrice"
+                                  ],
+                                  "gift": [
+                                      "false"
+                                  ],
+                                  "watchCount": [
+                                      "375"
+                                  ]
+                              }
+                          ],
+                          "returnsAccepted": [
+                              "true"
+                          ],
+                          "condition": [
+                              {
+                                  "conditionId": [
+                                      "1000"
+                                  ],
+                                  "conditionDisplayName": [
+                                      "New"
+                                  ]
+                              }
+                          ],
+                          "isMultiVariationListing": [
+                              "true"
+                          ],
+                          "topRatedListing": [
+                              "true"
+                          ]
+                      },
+                      {
+                          "itemId": [
+                              "145005693488"
+                          ],
+                          "title": [
+                              "Apple iPhone SE 3rd Gen 2022 5G AT&T/Verizon/T-Mobile/Unlocked 64GB/128GB/256GB"
+                          ],
+                          "globalId": [
+                              "EBAY-US"
+                          ],
+                          "subtitle": [
+                              "New•100% Battery•Choose Carrier•Free Ship•1Yr Warranty"
+                          ],
+                          "primaryCategory": [
+                              {
+                                  "categoryId": [
+                                      "9355"
+                                  ],
+                                  "categoryName": [
+                                      "Cell Phones & Smartphones"
+                                  ]
+                              }
+                          ],
+                          "galleryURL": [
+                              "https://i.ebayimg.com/thumbs/images/g/WgoAAOSwdjBkIJ-p/s-l140.jpg"
+                          ],
+                          "viewItemURL": [
+                              "https://www.ebay.com/itm/Apple-iPhone-SE-3rd-Gen-2022-5G-AT-T-Verizon-T-Mobile-Unlocked-64GB-128GB-256GB-/145005693488?var=444212770054"
+                          ],
+                          "autoPay": [
+                              "true"
+                          ],
+                          "postalCode": [
+                              "100**"
+                          ],
+                          "location": [
+                              "New York,NY,USA"
+                          ],
+                          "country": [
+                              "US"
+                          ],
+                          "storeInfo": [
+                              {
+                                  "storeName": [
+                                      "INNOVEE Tech"
+                                  ],
+                                  "storeURL": [
+                                      "http://stores.ebay.com/INNOVEE-Tech"
+                                  ]
+                              }
+                          ],
+                          "sellerInfo": [
+                              {
+                                  "sellerUserName": [
+                                      "innovee.tech"
+                                  ],
+                                  "feedbackScore": [
+                                      "19682"
+                                  ],
+                                  "positiveFeedbackPercent": [
+                                      "99.5"
+                                  ],
+                                  "feedbackRatingStar": [
+                                      "YellowShooting"
+                                  ],
+                                  "topRatedSeller": [
+                                      "true"
+                                  ]
+                              }
+                          ],
+                          "shippingInfo": [
+                              {
+                                  "shippingServiceCost": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "0.0"
+                                      }
+                                  ],
+                                  "shippingType": [
+                                      "Free"
+                                  ],
+                                  "shipToLocations": [
+                                      "Worldwide"
+                                  ],
+                                  "expeditedShipping": [
+                                      "false"
+                                  ],
+                                  "oneDayShippingAvailable": [
+                                      "true"
+                                  ],
+                                  "handlingTime": [
+                                      "0"
+                                  ]
+                              }
+                          ],
+                          "sellingStatus": [
+                              {
+                                  "currentPrice": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "299.99"
+                                      }
+                                  ],
+                                  "convertedCurrentPrice": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "299.99"
+                                      }
+                                  ],
+                                  "sellingState": [
+                                      "Active"
+                                  ],
+                                  "timeLeft": [
+                                      "P22DT21H15M5S"
+                                  ]
+                              }
+                          ],
+                          "listingInfo": [
+                              {
+                                  "bestOfferEnabled": [
+                                      "false"
+                                  ],
+                                  "buyItNowAvailable": [
+                                      "false"
+                                  ],
+                                  "startTime": [
+                                      "2023-03-26T23:09:09.000Z"
+                                  ],
+                                  "endTime": [
+                                      "2023-12-27T00:09:09.000Z"
+                                  ],
+                                  "listingType": [
+                                      "FixedPrice"
+                                  ],
+                                  "gift": [
+                                      "false"
+                                  ],
+                                  "watchCount": [
+                                      "65"
+                                  ]
+                              }
+                          ],
+                          "returnsAccepted": [
+                              "true"
+                          ],
+                          "condition": [
+                              {
+                                  "conditionId": [
+                                      "1500"
+                                  ],
+                                  "conditionDisplayName": [
+                                      "Open box"
+                                  ]
+                              }
+                          ],
+                          "isMultiVariationListing": [
+                              "true"
+                          ],
+                          "topRatedListing": [
+                              "true"
+                          ]
+                      },
+                      {
+                          "itemId": [
+                              "305238413935"
+                          ],
+                          "title": [
+                              "NEW OPEN BOX Apple iPhone 13 - 128GB - Midnight AT&T/Cricket Only 100% Battery"
+                          ],
+                          "globalId": [
+                              "EBAY-US"
+                          ],
+                          "primaryCategory": [
+                              {
+                                  "categoryId": [
+                                      "9355"
+                                  ],
+                                  "categoryName": [
+                                      "Cell Phones & Smartphones"
+                                  ]
+                              }
+                          ],
+                          "galleryURL": [
+                              "https://i.ebayimg.com/thumbs/images/g/5dsAAOSwIpJlQAZQ/s-l140.jpg"
+                          ],
+                          "viewItemURL": [
+                              "https://www.ebay.com/itm/NEW-OPEN-BOX-Apple-iPhone-13-128GB-Midnight-AT-T-Cricket-Only-100-Battery-/305238413935"
+                          ],
+                          "productId": [
+                              {
+                                  "@type": "ReferenceID",
+                                  "__value__": "3049291507"
+                              }
+                          ],
+                          "autoPay": [
+                              "true"
+                          ],
+                          "postalCode": [
+                              "376**"
+                          ],
+                          "location": [
+                              "Johnson City,TN,USA"
+                          ],
+                          "country": [
+                              "US"
+                          ],
+                          "storeInfo": [
+                              {
+                                  "storeName": [
+                                      "The Whiz Cells"
+                                  ],
+                                  "storeURL": [
+                                      "http://stores.ebay.com/The-Whiz-Cells"
+                                  ]
+                              }
+                          ],
+                          "sellerInfo": [
+                              {
+                                  "sellerUserName": [
+                                      "thewhizcellsllc"
+                                  ],
+                                  "feedbackScore": [
+                                      "22772"
+                                  ],
+                                  "positiveFeedbackPercent": [
+                                      "99.0"
+                                  ],
+                                  "feedbackRatingStar": [
+                                      "YellowShooting"
+                                  ],
+                                  "topRatedSeller": [
+                                      "true"
+                                  ]
+                              }
+                          ],
+                          "shippingInfo": [
+                              {
+                                  "shippingServiceCost": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "0.0"
+                                      }
+                                  ],
+                                  "shippingType": [
+                                      "Free"
+                                  ],
+                                  "shipToLocations": [
+                                      "Worldwide"
+                                  ],
+                                  "expeditedShipping": [
+                                      "true"
+                                  ],
+                                  "oneDayShippingAvailable": [
+                                      "false"
+                                  ],
+                                  "handlingTime": [
+                                      "0"
+                                  ]
+                              }
+                          ],
+                          "sellingStatus": [
+                              {
+                                  "currentPrice": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "439.95"
+                                      }
+                                  ],
+                                  "convertedCurrentPrice": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "439.95"
+                                      }
+                                  ],
+                                  "sellingState": [
+                                      "Active"
+                                  ],
+                                  "timeLeft": [
+                                      "P26DT17H49M24S"
+                                  ]
+                              }
+                          ],
+                          "listingInfo": [
+                              {
+                                  "bestOfferEnabled": [
+                                      "false"
+                                  ],
+                                  "buyItNowAvailable": [
+                                      "false"
+                                  ],
+                                  "startTime": [
+                                      "2023-10-30T19:43:28.000Z"
+                                  ],
+                                  "endTime": [
+                                      "2023-12-30T20:43:28.000Z"
+                                  ],
+                                  "listingType": [
+                                      "FixedPrice"
+                                  ],
+                                  "gift": [
+                                      "false"
+                                  ],
+                                  "watchCount": [
+                                      "107"
+                                  ]
+                              }
+                          ],
+                          "returnsAccepted": [
+                              "true"
+                          ],
+                          "condition": [
+                              {
+                                  "conditionId": [
+                                      "1500"
+                                  ],
+                                  "conditionDisplayName": [
+                                      "Open box"
+                                  ]
+                              }
+                          ],
+                          "isMultiVariationListing": [
+                              "false"
+                          ],
+                          "topRatedListing": [
+                              "true"
+                          ]
+                      },
+                      {
+                          "itemId": [
+                              "165836314229"
+                          ],
+                          "title": [
+                              "NEW APPLE iPhone 12 UNLOCKED FOR ALL CARRIERS - ALL COLORS & MEMORY"
+                          ],
+                          "globalId": [
+                              "EBAY-US"
+                          ],
+                          "subtitle": [
+                              "🔥🎉HOLIDAYS BIGGEST SALE🎉🔥BEST ONLINE DEAL⚡PERFECT🎁"
+                          ],
+                          "primaryCategory": [
+                              {
+                                  "categoryId": [
+                                      "9355"
+                                  ],
+                                  "categoryName": [
+                                      "Cell Phones & Smartphones"
+                                  ]
+                              }
+                          ],
+                          "galleryURL": [
+                              "https://i.ebayimg.com/thumbs/images/g/RqMAAOSw7epf7SRZ/s-l140.jpg"
+                          ],
+                          "viewItemURL": [
+                              "https://www.ebay.com/itm/NEW-APPLE-iPhone-12-UNLOCKED-ALL-CARRIERS-ALL-COLORS-MEMORY-/165836314229?var=465338065729"
+                          ],
+                          "autoPay": [
+                              "true"
+                          ],
+                          "postalCode": [
+                              "605**"
+                          ],
+                          "location": [
+                              "La Grange,IL,USA"
+                          ],
+                          "country": [
+                              "US"
+                          ],
+                          "storeInfo": [
+                              {
+                                  "storeName": [
+                                      "om-wireless"
+                                  ],
+                                  "storeURL": [
+                                      "http://stores.ebay.com/om-wireless"
+                                  ]
+                              }
+                          ],
+                          "sellerInfo": [
+                              {
+                                  "sellerUserName": [
+                                      "om-wireless"
+                                  ],
+                                  "feedbackScore": [
+                                      "55333"
+                                  ],
+                                  "positiveFeedbackPercent": [
+                                      "99.9"
+                                  ],
+                                  "feedbackRatingStar": [
+                                      "PurpleShooting"
+                                  ],
+                                  "topRatedSeller": [
+                                      "true"
+                                  ]
+                              }
+                          ],
+                          "shippingInfo": [
+                              {
+                                  "shippingServiceCost": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "0.0"
+                                      }
+                                  ],
+                                  "shippingType": [
+                                      "Free"
+                                  ],
+                                  "shipToLocations": [
+                                      "Worldwide"
+                                  ],
+                                  "expeditedShipping": [
+                                      "false"
+                                  ],
+                                  "oneDayShippingAvailable": [
+                                      "false"
+                                  ],
+                                  "handlingTime": [
+                                      "0"
+                                  ]
+                              }
+                          ],
+                          "sellingStatus": [
+                              {
+                                  "currentPrice": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "449.99"
+                                      }
+                                  ],
+                                  "convertedCurrentPrice": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "449.99"
+                                      }
+                                  ],
+                                  "sellingState": [
+                                      "Active"
+                                  ],
+                                  "timeLeft": [
+                                      "P11DT21H37M34S"
+                                  ]
+                              }
+                          ],
+                          "listingInfo": [
+                              {
+                                  "bestOfferEnabled": [
+                                      "false"
+                                  ],
+                                  "buyItNowAvailable": [
+                                      "false"
+                                  ],
+                                  "startTime": [
+                                      "2022-12-16T00:31:38.000Z"
+                                  ],
+                                  "endTime": [
+                                      "2023-12-16T00:31:38.000Z"
+                                  ],
+                                  "listingType": [
+                                      "FixedPrice"
+                                  ],
+                                  "gift": [
+                                      "false"
+                                  ],
+                                  "watchCount": [
+                                      "26"
+                                  ]
+                              }
+                          ],
+                          "returnsAccepted": [
+                              "true"
+                          ],
+                          "condition": [
+                              {
+                                  "conditionId": [
+                                      "1000"
+                                  ],
+                                  "conditionDisplayName": [
+                                      "New"
+                                  ]
+                              }
+                          ],
+                          "isMultiVariationListing": [
+                              "true"
+                          ],
+                          "topRatedListing": [
+                              "true"
+                          ]
+                      },
+                      {
+                          "itemId": [
+                              "126218563166"
+                          ],
+                          "title": [
+                              "Apple iPhone 12 - 64GB - Blue (Factory Unlocked) GSM/CDMA 100% Battery"
+                          ],
+                          "globalId": [
+                              "EBAY-US"
+                          ],
+                          "primaryCategory": [
+                              {
+                                  "categoryId": [
+                                      "9355"
+                                  ],
+                                  "categoryName": [
+                                      "Cell Phones & Smartphones"
+                                  ]
+                              }
+                          ],
+                          "galleryURL": [
+                              "https://i.ebayimg.com/thumbs/images/g/ww0AAOSwku9lXXKx/s-l140.jpg"
+                          ],
+                          "viewItemURL": [
+                              "https://www.ebay.com/itm/Apple-iPhone-12-64GB-Blue-Factory-Unlocked-GSM-CDMA-100-Battery-/126218563166"
+                          ],
+                          "productId": [
+                              {
+                                  "@type": "ReferenceID",
+                                  "__value__": "12041705105"
+                              }
+                          ],
+                          "autoPay": [
+                              "false"
+                          ],
+                          "postalCode": [
+                              "331**"
+                          ],
+                          "location": [
+                              "Miami,FL,USA"
+                          ],
+                          "country": [
+                              "US"
+                          ],
+                          "storeInfo": [
+                              {
+                                  "storeName": [
+                                      "Cells4Less2023"
+                                  ],
+                                  "storeURL": [
+                                      "http://stores.ebay.com/Cells4Less2023"
+                                  ]
+                              }
+                          ],
+                          "sellerInfo": [
+                              {
+                                  "sellerUserName": [
+                                      "cells4less2023"
+                                  ],
+                                  "feedbackScore": [
+                                      "572"
+                                  ],
+                                  "positiveFeedbackPercent": [
+                                      "93.9"
+                                  ],
+                                  "feedbackRatingStar": [
+                                      "Purple"
+                                  ],
+                                  "topRatedSeller": [
+                                      "true"
+                                  ]
+                              }
+                          ],
+                          "shippingInfo": [
+                              {
+                                  "shippingServiceCost": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "0.0"
+                                      }
+                                  ],
+                                  "shippingType": [
+                                      "Free"
+                                  ],
+                                  "shipToLocations": [
+                                      "Worldwide"
+                                  ],
+                                  "expeditedShipping": [
+                                      "false"
+                                  ],
+                                  "oneDayShippingAvailable": [
+                                      "false"
+                                  ],
+                                  "handlingTime": [
+                                      "0"
+                                  ]
+                              }
+                          ],
+                          "sellingStatus": [
+                              {
+                                  "currentPrice": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "328.72"
+                                      }
+                                  ],
+                                  "convertedCurrentPrice": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "328.72"
+                                      }
+                                  ],
+                                  "sellingState": [
+                                      "Active"
+                                  ],
+                                  "timeLeft": [
+                                      "P30DT1H32M10S"
+                                  ]
+                              }
+                          ],
+                          "listingInfo": [
+                              {
+                                  "bestOfferEnabled": [
+                                      "true"
+                                  ],
+                                  "buyItNowAvailable": [
+                                      "false"
+                                  ],
+                                  "startTime": [
+                                      "2023-12-03T04:26:14.000Z"
+                                  ],
+                                  "endTime": [
+                                      "2024-01-03T04:26:14.000Z"
+                                  ],
+                                  "listingType": [
+                                      "FixedPrice"
+                                  ],
+                                  "gift": [
+                                      "false"
+                                  ],
+                                  "watchCount": [
+                                      "4"
+                                  ]
+                              }
+                          ],
+                          "returnsAccepted": [
+                              "true"
+                          ],
+                          "condition": [
+                              {
+                                  "conditionId": [
+                                      "1500"
+                                  ],
+                                  "conditionDisplayName": [
+                                      "Open box"
+                                  ]
+                              }
+                          ],
+                          "isMultiVariationListing": [
+                              "false"
+                          ],
+                          "topRatedListing": [
+                              "true"
+                          ]
+                      },
+                      {
+                          "itemId": [
+                              "354120475504"
+                          ],
+                          "title": [
+                              "Apple iPhone 13 Mini 5G 5.4\" 128GB 256GB Factory Unlocked (Any Carrier)"
+                          ],
+                          "globalId": [
+                              "EBAY-US"
+                          ],
+                          "primaryCategory": [
+                              {
+                                  "categoryId": [
+                                      "9355"
+                                  ],
+                                  "categoryName": [
+                                      "Cell Phones & Smartphones"
+                                  ]
+                              }
+                          ],
+                          "galleryURL": [
+                              "https://i.ebayimg.com/thumbs/images/g/Th8AAOSwf09isXPI/s-l140.jpg"
+                          ],
+                          "viewItemURL": [
+                              "https://www.ebay.com/itm/Apple-iPhone-13-Mini-5G-5-4-128GB-256GB-Factory-Unlocked-Any-Carrier-/354120475504?var=0"
+                          ],
+                          "autoPay": [
+                              "true"
+                          ],
+                          "postalCode": [
+                              "112**"
+                          ],
+                          "location": [
+                              "Brooklyn,NY,USA"
+                          ],
+                          "country": [
+                              "US"
+                          ],
+                          "storeInfo": [
+                              {
+                                  "storeName": [
+                                      "sigmacellular"
+                                  ],
+                                  "storeURL": [
+                                      "http://stores.ebay.com/sigmacellular"
+                                  ]
+                              }
+                          ],
+                          "sellerInfo": [
+                              {
+                                  "sellerUserName": [
+                                      "sigmacellular"
+                                  ],
+                                  "feedbackScore": [
+                                      "129585"
+                                  ],
+                                  "positiveFeedbackPercent": [
+                                      "96.7"
+                                  ],
+                                  "feedbackRatingStar": [
+                                      "RedShooting"
+                                  ],
+                                  "topRatedSeller": [
+                                      "true"
+                                  ]
+                              }
+                          ],
+                          "shippingInfo": [
+                              {
+                                  "shippingServiceCost": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "0.0"
+                                      }
+                                  ],
+                                  "shippingType": [
+                                      "Free"
+                                  ],
+                                  "shipToLocations": [
+                                      "Worldwide"
+                                  ],
+                                  "expeditedShipping": [
+                                      "true"
+                                  ],
+                                  "oneDayShippingAvailable": [
+                                      "false"
+                                  ],
+                                  "handlingTime": [
+                                      "1"
+                                  ]
+                              }
+                          ],
+                          "sellingStatus": [
+                              {
+                                  "currentPrice": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "534.99"
+                                      }
+                                  ],
+                                  "convertedCurrentPrice": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "534.99"
+                                      }
+                                  ],
+                                  "sellingState": [
+                                      "Active"
+                                  ],
+                                  "timeLeft": [
+                                      "P17DT5H50M17S"
+                                  ]
+                              }
+                          ],
+                          "listingInfo": [
+                              {
+                                  "bestOfferEnabled": [
+                                      "false"
+                                  ],
+                                  "buyItNowAvailable": [
+                                      "false"
+                                  ],
+                                  "startTime": [
+                                      "2022-06-21T07:44:21.000Z"
+                                  ],
+                                  "endTime": [
+                                      "2023-12-21T08:44:21.000Z"
+                                  ],
+                                  "listingType": [
+                                      "FixedPrice"
+                                  ],
+                                  "gift": [
+                                      "false"
+                                  ],
+                                  "watchCount": [
+                                      "159"
+                                  ]
+                              }
+                          ],
+                          "returnsAccepted": [
+                              "true"
+                          ],
+                          "condition": [
+                              {
+                                  "conditionId": [
+                                      "1500"
+                                  ],
+                                  "conditionDisplayName": [
+                                      "Open box"
+                                  ]
+                              }
+                          ],
+                          "isMultiVariationListing": [
+                              "true"
+                          ],
+                          "topRatedListing": [
+                              "true"
+                          ]
+                      },
+                      {
+                          "itemId": [
+                              "275747063050"
+                          ],
+                          "title": [
+                              "Apple iPhone 12 - 64GB - Blue (AT&T)"
+                          ],
+                          "globalId": [
+                              "EBAY-US"
+                          ],
+                          "primaryCategory": [
+                              {
+                                  "categoryId": [
+                                      "9355"
+                                  ],
+                                  "categoryName": [
+                                      "Cell Phones & Smartphones"
+                                  ]
+                              }
+                          ],
+                          "galleryURL": [
+                              "https://i.ebayimg.com/thumbs/images/g/ZgAAAOSw7KhjUsXQ/s-l140.jpg"
+                          ],
+                          "viewItemURL": [
+                              "https://www.ebay.com/itm/Apple-iPhone-12-64GB-Blue-AT-T-/275747063050"
+                          ],
+                          "autoPay": [
+                              "false"
+                          ],
+                          "postalCode": [
+                              "752**"
+                          ],
+                          "location": [
+                              "Dallas,TX,USA"
+                          ],
+                          "country": [
+                              "US"
+                          ],
+                          "storeInfo": [
+                              {
+                                  "storeName": [
+                                      "northamericanmobile"
+                                  ],
+                                  "storeURL": [
+                                      "http://stores.ebay.com/northamericanmobile"
+                                  ]
+                              }
+                          ],
+                          "sellerInfo": [
+                              {
+                                  "sellerUserName": [
+                                      "northamericanmobile"
+                                  ],
+                                  "feedbackScore": [
+                                      "18039"
+                                  ],
+                                  "positiveFeedbackPercent": [
+                                      "99.3"
+                                  ],
+                                  "feedbackRatingStar": [
+                                      "YellowShooting"
+                                  ],
+                                  "topRatedSeller": [
+                                      "true"
+                                  ]
+                              }
+                          ],
+                          "shippingInfo": [
+                              {
+                                  "shippingServiceCost": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "0.0"
+                                      }
+                                  ],
+                                  "shippingType": [
+                                      "Free"
+                                  ],
+                                  "shipToLocations": [
+                                      "Worldwide"
+                                  ],
+                                  "expeditedShipping": [
+                                      "false"
+                                  ],
+                                  "oneDayShippingAvailable": [
+                                      "false"
+                                  ],
+                                  "handlingTime": [
+                                      "1"
+                                  ]
+                              }
+                          ],
+                          "sellingStatus": [
+                              {
+                                  "currentPrice": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "279.99"
+                                      }
+                                  ],
+                                  "convertedCurrentPrice": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "279.99"
+                                      }
+                                  ],
+                                  "sellingState": [
+                                      "Active"
+                                  ],
+                                  "timeLeft": [
+                                      "P11DT18H58M24S"
+                                  ]
+                              }
+                          ],
+                          "listingInfo": [
+                              {
+                                  "bestOfferEnabled": [
+                                      "false"
+                                  ],
+                                  "buyItNowAvailable": [
+                                      "false"
+                                  ],
+                                  "startTime": [
+                                      "2023-03-15T20:52:28.000Z"
+                                  ],
+                                  "endTime": [
+                                      "2023-12-15T21:52:28.000Z"
+                                  ],
+                                  "listingType": [
+                                      "FixedPrice"
+                                  ],
+                                  "gift": [
+                                      "false"
+                                  ],
+                                  "watchCount": [
+                                      "115"
+                                  ]
+                              }
+                          ],
+                          "returnsAccepted": [
+                              "true"
+                          ],
+                          "condition": [
+                              {
+                                  "conditionId": [
+                                      "1500"
+                                  ],
+                                  "conditionDisplayName": [
+                                      "Open box"
+                                  ]
+                              }
+                          ],
+                          "isMultiVariationListing": [
+                              "false"
+                          ],
+                          "topRatedListing": [
+                              "true"
+                          ]
+                      },
+                      {
+                          "itemId": [
+                              "166340434775"
+                          ],
+                          "title": [
+                              "Apple - iPhone 15 Plus - 128GB - Unlocked - Factory Warranty - All Colors"
+                          ],
+                          "globalId": [
+                              "EBAY-US"
+                          ],
+                          "subtitle": [
+                              "Free Fast Shipping. Factory Sealed. Factory Warranty."
+                          ],
+                          "primaryCategory": [
+                              {
+                                  "categoryId": [
+                                      "9355"
+                                  ],
+                                  "categoryName": [
+                                      "Cell Phones & Smartphones"
+                                  ]
+                              }
+                          ],
+                          "galleryURL": [
+                              "https://i.ebayimg.com/thumbs/images/g/cY4AAOSwWxZlCxd8/s-l140.jpg"
+                          ],
+                          "viewItemURL": [
+                              "https://www.ebay.com/itm/Apple-iPhone-15-Plus-128GB-Unlocked-Factory-Warranty-All-Colors-/166340434775?var=0"
+                          ],
+                          "autoPay": [
+                              "true"
+                          ],
+                          "postalCode": [
+                              "038**"
+                          ],
+                          "location": [
+                              "Plaistow,NH,USA"
+                          ],
+                          "country": [
+                              "US"
+                          ],
+                          "storeInfo": [
+                              {
+                                  "storeName": [
+                                      "ALLDAYZIP"
+                                  ],
+                                  "storeURL": [
+                                      "http://stores.ebay.com/ALLDAYZIP"
+                                  ]
+                              }
+                          ],
+                          "sellerInfo": [
+                              {
+                                  "sellerUserName": [
+                                      "alldayzip"
+                                  ],
+                                  "feedbackScore": [
+                                      "37273"
+                                  ],
+                                  "positiveFeedbackPercent": [
+                                      "99.4"
+                                  ],
+                                  "feedbackRatingStar": [
+                                      "TurquoiseShooting"
+                                  ],
+                                  "topRatedSeller": [
+                                      "true"
+                                  ]
+                              }
+                          ],
+                          "shippingInfo": [
+                              {
+                                  "shippingServiceCost": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "0.0"
+                                      }
+                                  ],
+                                  "shippingType": [
+                                      "Free"
+                                  ],
+                                  "shipToLocations": [
+                                      "Worldwide"
+                                  ],
+                                  "expeditedShipping": [
+                                      "false"
+                                  ],
+                                  "oneDayShippingAvailable": [
+                                      "false"
+                                  ],
+                                  "handlingTime": [
+                                      "1"
+                                  ]
+                              }
+                          ],
+                          "sellingStatus": [
+                              {
+                                  "currentPrice": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "979.0"
+                                      }
+                                  ],
+                                  "convertedCurrentPrice": [
+                                      {
+                                          "@currencyId": "USD",
+                                          "__value__": "979.0"
+                                      }
+                                  ],
+                                  "sellingState": [
+                                      "Active"
+                                  ],
+                                  "timeLeft": [
+                                      "P16DT16H54M34S"
+                                  ]
+                              }
+                          ],
+                          "listingInfo": [
+                              {
+                                  "bestOfferEnabled": [
+                                      "false"
+                                  ],
+                                  "buyItNowAvailable": [
+                                      "false"
+                                  ],
+                                  "startTime": [
+                                      "2023-09-20T18:48:38.000Z"
+                                  ],
+                                  "endTime": [
+                                      "2023-12-20T19:48:38.000Z"
+                                  ],
+                                  "listingType": [
+                                      "FixedPrice"
+                                  ],
+                                  "gift": [
+                                      "false"
+                                  ],
+                                  "watchCount": [
+                                      "209"
+                                  ]
+                              }
+                          ],
+                          "returnsAccepted": [
+                              "true"
+                          ],
+                          "condition": [
+                              {
+                                  "conditionId": [
+                                      "1000"
+                                  ],
+                                  "conditionDisplayName": [
+                                      "New"
+                                  ]
+                              }
+                          ],
+                          "isMultiVariationListing": [
+                              "true"
+                          ],
+                          "topRatedListing": [
+                              "true"
+                          ]
+                      }
+                  ]
+              }
+          ],
+          "paginationOutput": [
+              {
+                  "pageNumber": [
+                      "1"
+                  ],
+                  "entriesPerPage": [
+                      "50"
+                  ],
+                  "totalPages": [
+                      "334834"
+                  ],
+                  "totalEntries": [
+                      "16741664"
+                  ]
+              }
+          ],
+          "itemSearchURL": [
+              "https://www.ebay.com/sch/i.html?LH_ItemCondition=1&_nkw=iphone&_ddo=1&_ipg=50&_os=S%7CST%7CD&_pgn=1"
+          ]
+      }
+  ]
+}

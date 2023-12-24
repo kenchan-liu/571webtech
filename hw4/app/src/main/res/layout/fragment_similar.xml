@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/welcome"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="visible"> <!-- 紫色背景 -->
+
+        <ProgressBar
+            android:id="@+id/progressBar"
+            style="?android:attr/progressBarStyle"
+            android:layout_width="239dp"
+            android:layout_height="67dp"
+            android:layout_marginTop="240dp"
+            android:progressDrawable="@drawable/progress"
+            android:visibility="visible"
+            app:layout_constraintBottom_toTopOf="@+id/textView"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.447"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="6dp"
+            android:text="Fetching Similar items"
+            android:textColor="#673AB7"
+            android:textSize="20dp"
+            android:visibility="visible"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.461"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/progressBar" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <FrameLayout
+        android:id="@+id/framelayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="invisible"
+        tools:context=".SimilarFragment">
+
+        <ScrollView
+            android:id="@+id/scroll"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scrollbars="vertical">
+
+                <Spinner
+                    android:id="@+id/spinner"
+                    android:layout_width="145dp"
+                    android:layout_height="wrap_content"
+                    android:entries="@array/sortby"
+
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <Spinner
+                    android:id="@+id/spinner2"
+                    android:layout_width="143dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="18dp"
+                    android:entries="@array/sort"
+                    app:layout_constraintStart_toEndOf="@+id/spinner"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/simrecyclerView"
+                    android:layout_width="406dp"
+                    android:layout_height="674dp"
+                    android:layout_marginTop="23dp"
+                    android:scrollbars="vertical"
+                    app:layout_constraintTop_toBottomOf="@+id/spinner2"
+                    tools:layout_editor_absoluteX="0dp" />
+
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+        </ScrollView>
+
+        <TextView
+            android:id="@+id/noresult"
+            android:layout_width="wrap_content"
+            android:layout_height="4dp"
+            android:layout_marginStart="160dp"
+            android:layout_marginTop="360dp"
+            android:text="No results"
+            android:visibility="gone" />
+
+
+    </FrameLayout>
+</RelativeLayout>

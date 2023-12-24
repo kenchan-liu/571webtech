@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SearchShowActivity"
+    android:scrollbars="vertical" >
+
+    <TextView
+        android:id="@+id/resultitle"
+        android:layout_width="410dp"
+        android:layout_height="71dp"
+        android:background="#643BC3"
+        android:gravity="center|start"
+        android:paddingTop="20dp"
+        android:text="       Search Results"
+        android:textColor="#F3F2F2"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toTopOf="@+id/recyclerView"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="52dp"
+        android:scrollbars="vertical"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="0dp" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="43dp"
+        android:layout_height="54dp"
+        android:layout_marginStart="7dp"
+        android:layout_marginTop="-4dp"
+        android:background="#673AB7"
+        android:onClick="onBackButtonClick"
+        android:text="←  "
+        android:textColor="#F6F1F1"
+        android:textSize="28sp"
+        app:layout_constraintEnd_toEndOf="@+id/resultitle"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/resultitle"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardviews"
+        android:layout_width="362dp"
+        android:layout_height="55dp"
+        android:layout_gravity="center"
+        android:layout_margin="3dp"
+        android:elevation="8dp"
+        android:text="No results"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="@+id/recyclerView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.489"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/cardviewtexts"
+            android:layout_width="342dp"
+            android:layout_height="wrap_content"
+            android:text="    No results"
+            android:textColor="@color/black"
+            android:textSize="28sp" />
+    </androidx.cardview.widget.CardView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

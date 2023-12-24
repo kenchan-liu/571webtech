@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sortby" >
+        <item>Default </item>
+        <item>Name</item>
+        <item>Price</item>
+        <item>Days Left</item>
+    </string-array>
+
+
+</resources>
